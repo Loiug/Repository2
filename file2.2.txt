@@ -1,1 +1,4 @@
-File on local
+HEAD
+File on loal
+Conflic test file
+
